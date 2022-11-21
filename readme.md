@@ -3,6 +3,7 @@
 * weather of a particular city 
 
 ##### More commands and message replies will be added in future.
-##### This is just for learning purpose.
 
 ### Moreover you can type /help command to get a list of what the bot can do.
+
+##### This is just for learning purpose.
